@@ -1,2 +1,2 @@
 # coffeemachine
-Coffee Machine Python project at Hyperskill
+Hyperskyll Coffee Machine project solution
